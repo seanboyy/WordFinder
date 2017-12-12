@@ -1,2 +1,2 @@
-## Word Finder
+# Word Finder
 readme to come
